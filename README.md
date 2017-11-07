@@ -1,2 +1,2 @@
 # Purple-Wifi-API
-A list of request commands to use with Purple WiFi
+The Purple Wifi API data dictionary (v1.3) and a few basics to get started with API on Purple

@@ -1,0 +1,3 @@
+# A GET request to get the venue ID's associated with your API
+  # (change DOMAIN.COM to whatever region purpleportal you are connected to, for example region3.purpleportal.net)
+https://DOMAIN.COM/api/company/v1/venues

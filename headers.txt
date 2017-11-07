@@ -1,0 +1,6 @@
+X-API-Authorization:  your API key
+Content-Type:         application/json
+Content-Length:       0
+Date:                 Tue, 07 Nov 2017 08:44:34 UTC
+Host:                 (regionwhatever).purpleportal.net
+Accept:               */*
